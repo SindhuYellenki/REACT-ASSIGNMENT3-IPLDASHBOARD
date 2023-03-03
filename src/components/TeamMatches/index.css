@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+.details-bg-container {
+  background-image: linear-gradient(#a4261d, #1e293b);
+  padding: 20px;
+}
+.banner {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.listContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+.listItemContainer {
+  width: 45%;
+  padding: 30px;
+  border-radius: 10px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: gray;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 20px;
+}
+.teamLogo {
+  height: 150px;
+  width: 100px;
+  margin-right: 10px;
+}
+.teamName {
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: 700;
+  color: white;
+}
